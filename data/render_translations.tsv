@@ -1,0 +1,158 @@
+# Scope	English	German
+render	Guild	Gilde
+render	Town information	Stadtinformationen
+render	Statistics	Statistik
+render	Goods Supply	Warenversorgung
+render	Ships in port	Schiffe im Hafen
+render	Ships at sea	Schiffe auf See
+render	Convoys in port	Konvois im Hafen
+render	Convoys at sea	Konvois auf See
+render	Weekly production	Wochenproduktion
+render	Weekly production (fixed)	Wochenproduktion (korrigiert)
+render	total	Summe
+render	Trading information	Handelsinformationen
+render	Market	Markt
+render	ship data	Schiffsdaten
+render	How many do you want to hire?	Wie viele möchtet Ihr anwerben?
+render	Would you be interested in a few	Hättet Ihr Interesse an ein paar
+render	Only city businesses taken into consideration.	Nur städtische Betriebe werden berücksichtigt.
+render	Goods for sale	Warenangebot
+render	No ships available	Keine Schiffe verfügbar
+render	Autosave	Automatisches Speichern
+render	Fast forward	Vorspulen
+render	Configure letter files	Briefablage konfigurieren
+render	Costs (per day)	Kosten (pro Tag)
+render	Steer manually	Manuell steuern
+render	Land taxes	Grundsteuer
+render	Side room	Nebenraum
+render	amtliche Nachricht: Elections	Amtliche Nachricht: Wahlen
+render	amtliche Nachricht: Hanse Day	Amtliche Nachricht: Hansetag
+render	He demands 50% of the loot.	Er verlangt 50 % der Beute.
+render	Weapon smith	Waffenschmiede
+render	News	Nachrichten
+render	Construction menu	Baumenü
+render	Demolish building	Gebäude abreißen
+render	End turn	Zug beenden
+render	Personal settings	Persönliche Einstellungen
+render	Other	Sonstiges
+render	Public notices	Öffentliche Nachrichten
+render	Delete letters	Brief löschen
+render	City data	Stadtdaten
+render	Municipal comparison	Städtevergleich
+render	Own company	Eigenes Unternehmen
+render	Change map	Karte wechseln
+render	Disband convoy	Konvoi auflösen
+render	Convoy view	Konvoiansicht
+render	Auto trade	Handelsroute
+render	Selling to the town	Verkaufe an Stadt
+render	Transfer to office	Transfer in Kontor
+render	Buying from town	Kaufe von Stadt
+render	Transfer from office	Transfer von Kontor
+render	Fortification	Befestigung
+render	Select all	Alle selektieren
+render	Capture	Kapern
+render	Flee	Fliehen
+resource:20052	Surrender	Aufgeben
+render	Ready	Bereit
+render	Load or Save Auto Trade	Handelsroute laden oder sichern
+render	Dock in town	Stadt anlaufen
+render	Don't dock in town	Stadt nicht anlaufen
+render	Use town for repairs	Stadt für Reparatur nutzen
+render	Lock min. store quantity for auto trade ships	Mindestbestand für Schiffe sperren
+render	Quantity, to remain in trading office	Bestand, der im Kontor verbleiben soll
+render	Quantity, purchase maximum	Bestand, bis zu dem eingekauft wird
+render	Quantity, to remain unsold	Bestand, bis zu dem verkauft wird
+render	Coalmine	Bergwerk
+render	Coining	Münze
+render	Raw materials	Rohstoffe
+render	Condition	Zustand
+render	Create convoy	Konvoi erstellen
+render	Leave town	Stadt verlassen
+render	Own buildings	Eigene Gebäude
+render	City buildings	Stadtgebäude
+render	Crew	Besatzung
+render	pro load	pro Ladung
+render	1.000 load	1.000 Last
+render	2.000 load	2.000 Last
+render	Chronicle	Chronik
+render	Money lender	Geldverleiher
+render	Harbourmaster	Hafenmeister
+render	Tooltips	Hinweise
+render	Utilization Markup	Auslastungszuschlag
+render	Pending Experience (scaled)	Ausstehende EP (skaliert)
+render	Experience (scaled)	Erfahrung (skaliert)
+render	Quality Level	Qualitätsstufe
+render	Required XP	Benötigte EP
+render	Are you willing to announce a celebration?	Seid Ihr willens, ein Fest anzukündigen?
+render	Scottish Guild	Schottengilde
+render	Castle Guild	Schlossgilde
+render	York Moor Guild	York Moor Gilde
+render	English Guild	Englische Gilde
+render	Steelyard Guild	Stalhofgilde
+render	Weavers' Guild	Webergilde
+render	Merchants' Guild	Kaufmannsgilde
+render	Trading Community	Handelsgemeinschaft
+render	Brothers' Guild	Brudergilde
+render	St. Nicholas' Guild	Gilde des St. Nikolaus
+render	Carmelites' Guild	Karmelitengilde
+render	Limfjord Guild	Limfjord Gilde
+render	Noble Guild	Groten Gilde
+render	Traders' Guild	Händlergilde
+render	St. Jacob's Guild	St. Jacobs Gilde
+render	Free Guild	Freigilde
+render	St. Matilda's Guild	Mathildengilde
+render	Boknavjard Guild	Boknavjard Gilde
+render	Tonsberg Guild	Tönsberger Gilde
+render	Skerry Guild	Schärengilde
+render	Danish Guild	Danske Gilde
+render	Gotland Guild	Götaland Gilde
+render	Island Club	Inselclub
+render	St. Stephen's Guild	Stephanusgilde
+render	Councillors' Guild	Ratsherrengilde
+render	St. Eric's Guild	St. Erichsgilde
+render	Santa Maria Guild	Santa Maria Gilde
+render	Northern Guild	Nordgilde
+render	St. John's Guild	Johannitergilde
+render	Rugenwald Guild	Rügenwaldgilde
+render	Prussian Guild	Prussengilde
+render	Marian Guild	Mariengilde
+render	King's Guild	Königsgilde
+render	Klaipeda Club	Memelsclub
+render	Windau Union	Windau Treffen
+render	Crusaders' Guild	Schwertbrüdergilde
+render	Eastern Traders' Guild	Osthändler Gilde
+render	German Guild	Deutsche Gilde
+render	Traders' Union	Händlertreffen
+render	St. Peter's Guild	St. Petersgilde
+render	The Caledonian	Zum Caledonier
+render	The Roast Boar	Zum gekochten Wildschwein
+render	The Stiff Breeze	Zur steifen Brise
+render	Skib's Tomb	Skib's Begrave
+render	The Fair Youth	Zum blonden Hans
+render	Pils Cellar	Pilskeller
+render	The Crow's Nest	Zum Krähennest
+render	The Castaway	Zum Gestrandeten
+render	Kobold	Klabautermann
+render	The Norseman	Zum Nordmann
+render	The Tonsberg Keg	Das Tönser Fass
+render	The Viking's Bride	Zur Wikingerbraut
+render	The Golden Anchor	Zum goldenen Anker
+render	The Chieftain	Zum Häuptling
+render	Little Island	Kleine Insel
+render	Barbarian Inn	Barbarenschenke
+render	Frost Cellar	Frostkeller
+render	Jolly Mussel	Lustige Muschel
+render	Ahab's Whiskers	Ahabs Bart
+render	Northern Inn	Nordschenke
+render	Man Overboard	Mann über Bord
+render	Rugenwald Lodge	Rügenwalder Hof
+render	Maid of Gdansk	Danz'ger Mädel
+render	Snug Cellar	Dönskeller
+render	King's Cellar	Königskeller
+render	Klaipeda Inn	Memelschenke
+render	Eastern Cellar	Ostkeller
+render	Vodka and Cabbage Soup	Wodka und Kohlsuppe
+render	Jolly Bear	Lustiger Bär
+render	Lukkulus' Table	Lukkulus Tafel
+render	Peter's Cellar	Peterskeller
+render	To The Dancing Bears	Zum tanzenden Bären
