@@ -70,6 +70,10 @@ cargo clippy --locked --target i686-pc-windows-msvc --all-targets -- -D warnings
 cargo test --locked --target i686-pc-windows-msvc
 ```
 
+## Lizenz
+
+Der Mod-Code und die eigenen Beiträge zu den Übersetzungstabellen stehen unter der [Apache License 2.0](LICENSE). Spieltexte und die Ressourcen unter `assets/` sind davon nicht umfasst; Rechte Dritter bleiben unberührt.
+
 ## Credits und Herkunft
 
 Danke an **P3Modding** für den [Modloader, die Tools und die Dokumentation](https://github.com/P3Modding/p3-lib), auf denen dieser Mod aufbaut.
