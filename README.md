@@ -22,7 +22,7 @@ Die englische Spiel-EXE wurde mit REA und Ghidra auf Texte, Textzeiger und ihre 
 
 Der Mod ordnet englischen Spieltexten ihre deutschen Fassungen zu. Beim Start prüft er die erwarteten Textadressen und ersetzt die Textzeiger im Speicher. So bleiben unterschiedliche deutsche Formen desselben englischen Wortes an ihren jeweiligen Stellen erhalten.
 
-Ein Texthook übersetzt ausgewählte zusammengesetzte Texte und Beschriftungen anderer Mods. Gilden- und Ereignismeldungen verwenden übersetzte Satzteile wie Artikel, Eigenschaften und Ränge. Ein weiterer Hook berücksichtigt die deutsche Textlänge bei Tooltips weil es sonst natürlich zu einfach wäre. Beide Übersetzungstabellen werden in die DLL eingebettet um gendern/deklinieren nicht zu hardcoden.
+Ein Texthook übersetzt ausgewählte zusammengesetzte Texte und Beschriftungen anderer Mods. Gilden- und Ereignismeldungen verwenden übersetzte Satzteile wie Artikel, Eigenschaften und Ränge. Ein weiterer Hook berücksichtigt die deutsche Textlänge bei Tooltips weil es sonst natürlich zu einfach wäre. Beide Übersetzungstabellen werden in die DLL eingebettet.
 
 Die deutschen Ressourcen im Paket ergänzen die DLL um Dateien wie Missionen, Skripte und Menügrafiken.
 
